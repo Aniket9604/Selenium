@@ -11,6 +11,7 @@ public class Demo {
 		System.out.prinltn(" thanks nisha" );
 		System.out.println("great you are!!" );
 >>>>>>> branch 'master' of https://github.com/Aniket9604/Selenium.git
+	System.out.println(" hi friends ");
 
 	}
 
